@@ -1,5 +1,7 @@
 import { AppLayoutFooter, AppLayoutFooterLink } from '@namefi/storybook'
 import Image from 'next/image'
+import '@namefi/storybook/lib/index.css'
+
 
 export default function Home() {
   return (
